@@ -107,6 +107,9 @@ body{
   background: #5372F0;
   border-color: #5372F0;
 }
+.rotate .title{
+  color: greenyellow;
+}
 .wrapper .preview-img{
   flex-grow: 1;
   display: flex;
